@@ -1,6 +1,7 @@
-LES-5 [2866, 1967-066E] Telemetry, Pass 2
+LES-5 [2866, 1967-066E] Telemetry, Pass 2 and Pass 3 
 
 2020-04-13T08:03:30 to 2020-04-17T00:41:26 UTC
+2020-04-23 19:36:45 to 2020-04-27 23:13:50 UTC
 
 The data was collected by Scott Tilley
 
