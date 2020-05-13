@@ -8,7 +8,7 @@ Pass 4: 2020-05-04T19:06:24 to 2020-05-08T23:03:04 UTC
 
 The data was collected by Scott Tilley
 
-This files and the referenced data file may be used by anyone for personal study and analysis.  If you intend to copy, distribute or use this data/software for any other purpose please contact me.
+These files and the referenced data files may be used by anyone for personal study and analysis.  If you intend to copy, distribute or use this data/software for any other purpose please contact me.
 
 The data was decoded using Daniel Estévez's code.  
 
