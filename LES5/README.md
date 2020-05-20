@@ -6,6 +6,8 @@ Pass 3: 2020-04-23T19:36:45 to 2020-04-27T23:13:50 UTC
 
 Pass 4: 2020-05-04T19:06:24 to 2020-05-08T23:03:04 UTC
 
+Pass 5: 2020-05-15 17:55:17 to 2020-05-19 21:06:33 UTC
+
 The data was collected by Scott Tilley
 
 These files and the referenced data files may be used by anyone for personal study and analysis.  If you intend to copy, distribute or use this data/software for any other purpose please contact me.
