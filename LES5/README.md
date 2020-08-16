@@ -20,6 +20,10 @@ Pass 10: 2020-07-09T15:18:03 to 2020-07-13T12:54:18 UTC
 
 Pass 11: 2020-07-20T13:47:14 to 2020-07-24T11:03:05 UTC
 
+Pass 12: 2020-07-31T11:51:35 to 2020-08-04T09:24:14 UTC
+
+Pass 13: 2020-08-11T10:35:10 to 2020-08-15T07:18:56 UTC
+
 The data was collected by Scott Tilley
 
 These files and the referenced data files may be used by anyone for personal study and analysis.  If you intend to copy, distribute or use this data/software for any other purpose please contact me.
