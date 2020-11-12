@@ -34,11 +34,17 @@ Pass 17: 2020-09-24T07:51:59 to 2020-09-27T14:52:39 UTC
 
 Pass 18: 2020-10-05T02:19:40 to 2020-10-08T22:32:37 UTC
 
+Pass 19: 2020-10-15T16:18:04 to 2020-10-19T20:13:34 UTC
+
+Pass 20: 2020-10-28T02:18:05 to 2020-10-30T17:05:41 UTC
+
+Pass 21: 2020-11-06T14:20:05 to 2020-11-10T06:44:21 UTC
+
 The data was collected by Scott Tilley
 
 These files and the referenced data files may be used by anyone for personal study and analysis.  If you intend to copy, distribute or use this data/software for any other purpose please contact me.
 
-The data was decoded using Daniel Estévez's code.  
+The data was decoded using Daniel Estévez's decoder.  
 
 Please see his repository for more information:
 https://github.com/daniestevez/jupyter_notebooks/tree/master/LES-5
